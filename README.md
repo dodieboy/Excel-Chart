@@ -7,4 +7,5 @@
 ![image](https://user-images.githubusercontent.com/9015764/165044719-859e7d82-ce64-41e7-9081-f97fac0e2cd0.png)
 
 <p>Bubble chart that randomly position and color the bubble (7 different color configured) and the size is depent on the amount(number) given.</p>
-!Issue! bubble may overlap
+
+**Issue:** bubble may overlap
